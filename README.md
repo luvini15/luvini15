@@ -12,8 +12,8 @@
 📍 Brasília, Brazil
 
 <a href="https://www.linkedin.com/in/lu%C3%ADs-vin%C3%ADcius-hernani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<!-- TODO: replace YOUR_EMAIL@example.com with your real email (appears 2x in this file) -->
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
+<!-- TODO: replace luisviniciushernani@gmail.com with your real email (appears 2x in this file) -->
+<a href="mailto:luisviniciushernani@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=luvini15&label=Profile%20views&color=0e7490&style=for-the-badge" alt="Profile views" />
 
 </div>
@@ -107,40 +107,34 @@ Lately I've been moving deeper into **AI Engineering**: building LLM-powered app
 <!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
-<!-- TODO: replace REPO_NAME in each link with the real repository name and adjust descriptions to match each project -->
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Enterprise RAG Assistant</h3>
-      <p>AI-powered document assistant that retrieves and reasons over company documentation using semantic search and agentic workflows.</p>
-      <p><b>Tech:</b> Python • FastAPI • LangGraph • PostgreSQL • pgvector • Docker</p>
-      <a href="https://github.com/luvini15/REPO_NAME">Repository</a>
-      <!-- Optional: · <a href="DEMO_URL">Live Demo</a> -->
+      <h3>🏈 NFL Draft QB Analysis</h3>
+      <p>Statistical comparison of Fernando Mendoza against every #1 overall QB pick of the last decade, using final-season college data. Derived efficiency and risk metrics (Y/A, TD%, INT%, NET_TD) and used median benchmarks to handle extreme outliers.</p>
+      <p><b>Tech:</b> Python • Jupyter • REST API • Data Visualization</p>
+      <a href="https://github.com/luvini15/mendonza_draft">Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 ML Pipeline & Feature Engineering</h3>
-      <p>End-to-end Machine Learning pipeline with automated feature engineering, model training and evaluation on structured data.</p>
-      <p><b>Tech:</b> Python • Featuretools • Scikit-learn • Pandas</p>
-      <a href="https://github.com/luvini15/REPO_NAME">Repository</a>
+      <h3>📊 BR Radar Canarinho</h3>
+      <p>Interactive Streamlit dashboard for Brazilian national team prospects, with a 4-3-3 lineup view, FIFA-style player cards and live data pulled from TheSportsDB and football-data.org APIs.</p>
+      <p><b>Tech:</b> Python • Streamlit • REST APIs • Excel</p>
+      <a href="https://github.com/luvini15/dash_selecao_copa">Repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ AI Agent</h3>
-      <p>Tool-using AI agent that plans and executes multi-step tasks, exposed through an API for integration with other systems.</p>
-      <p><b>Tech:</b> Python • LangGraph • LangChain • FastAPI</p>
-      <a href="https://github.com/luvini15/REPO_NAME">Repository</a>
+      <h3>🤖 Enterprise RAG Assistant <sub>🚧 in progress</sub></h3>
+      <p>Document assistant that retrieves and reasons over company documentation using semantic search and agentic workflows.</p>
+      <p><b>Tech:</b> Python • FastAPI • LangGraph • PostgreSQL • pgvector • Docker</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Data Analysis & BI Dashboard</h3>
-      <p>Data analysis project covering ETL, exploratory analysis and an interactive dashboard that turns raw data into business insights.</p>
-      <p><b>Tech:</b> Python • SQL • Power BI • ETL</p>
-      <a href="https://github.com/luvini15/REPO_NAME">Repository</a>
+      <h3>⚡ AI Agent <sub>🚧 in progress</sub></h3>
+      <p>Tool-using agent that plans and executes multi-step tasks, exposed through an API for integration with other systems.</p>
+      <p><b>Tech:</b> Python • LangGraph • LangChain • FastAPI</p>
     </td>
   </tr>
 </table>
-
----
 
 <!-- ===================== ANALYTICS ===================== -->
 ## 📊 GitHub Analytics
