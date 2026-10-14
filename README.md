@@ -1,30 +1,64 @@
-# Hi, I'm Luis Vinicius 👋
+# Hi! Nice to meet you, I'm Luis Vinicius 👋
 
-### Data Science & AI Developer
+### Data Science & AI | Machine Learning • Python • SQL • Power BI
 
-I'm a Data Science student focused on Machine Learning, Artificial Intelligence and Data Engineering.
+I'm a Data Science student passionate about Machine Learning, Artificial Intelligence and data-driven solutions.
 
-## 🚀 About Me
+I have practical experience with Python, SQL and Power BI, working with data analysis, visualization, predictive modeling and Machine Learning to transform complex data into clear insights and support data-driven decision-making.
 
-- 🤖 Building AI Agents and RAG applications
-- 🧠 Studying Machine Learning and Deep Learning
-- 📊 Working with Data Analysis and Business Intelligence
-- ⚡ Developing backend applications with Python and FastAPI
-- 🗄️ Working with PostgreSQL, SQL and vector databases
+I'm constantly looking for new challenges and opportunities to improve my skills, build real-world projects and apply technology to solve meaningful problems.
+
+## 🚀 What I'm currently focused on
+
+- 🤖 Artificial Intelligence and Machine Learning
+- 🧠 Predictive Modeling
+- 📊 Data Analysis and Data Visualization
+- 🐍 Python for Data Science
+- 🗄️ SQL and Data Processing
+- 📈 Power BI and Business Intelligence
+- ⚙️ AI-powered applications and automation
 
 ## 🛠️ Tech Stack
 
 ### Languages
 Python • SQL • R
 
-### AI & Data
-PyTorch • Pandas • NumPy • Scikit-learn • LangGraph • LangChain
+### Data Science & Machine Learning
+Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 
-### Backend & Databases
-FastAPI • PostgreSQL 
+### Data & BI
+Power BI • Excel • ETL • Statistics • Web Scraping
+
+### AI & Development
+FastAPI • LangChain • LangGraph • PostgreSQL • Docker
 
 ### Tools
-Docker • Git • GitHub • VS Code • Power BI • Streamlit
+Git • GitHub • VS Code
+
+## 💼 Experience
+
+Currently working with data and AI projects involving:
+
+- Data collection and analysis
+- Dashboards and data visualization
+- Development of code-based solutions
+- Artificial Intelligence projects
+
+## 🎓 Education
+
+Bachelor's Degree in Data Science  
+Centro Universitário de Brasília
+
+## 📚 Certifications
+
+I've completed courses and certifications through platforms such as:
+
+- DataCamp
+- Data Science Academy
+- DIO
+- freeCodeCamp
+- ENAP
+- Cubos Academy
 
 ## 📫 Contact
 
